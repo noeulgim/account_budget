@@ -24,8 +24,9 @@ h2 {
 
 .sector {
   border-radius: 20px;
-  background: #e4e4e4;
+  background: #f1f1f1;
   margin: 10px;
+  filter: drop-shadow(0 0 10px rgba(0,0,0,.15));
 }
 
 #left, #middle{
